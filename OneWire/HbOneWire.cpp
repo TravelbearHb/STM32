@@ -44,7 +44,7 @@
 #define WRITE_BIT_DELAY1	5		// 10
 #define WRITE_BIT_DELAY2	60		// 55
 #define WRITE_BIT_DELAY3	65		// 65
-#define WRITE_BIT_DELAY4	5       // 5
+#define WRITE_BIT_DELAY4	5      		// 5
 
 #define  BEFORE_READ_DELAY	5
 #define  BEFORE_WRITE_DELAY	5
